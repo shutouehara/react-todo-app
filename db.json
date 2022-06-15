@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "id": "01G5KAJBMVYTJZ1X5GB8TVBWTJ",
+      "content": "てｓｔ",
+      "done": false
+    },
+    {
+      "id": "01G5KAJDHMZ4FVGE806TJ9MDNT",
+      "content": "あｔ",
+      "done": true
+    },
+    {
+      "id": "01G5KAJFWCT9HC7JGXWNHP99GF",
+      "content": "あｄｇｒｔ",
+      "done": true
+    },
+    {
+      "id": "01G5KB869D5X3TFQPQSGTNJCWS",
+      "content": "garga",
+      "done": false
+    },
+    {
+      "id": 1,
+      "content": "Install Create react app",
+      "done": false
+    },
+    {
+      "id": 2,
+      "content": "Develop server's API",
+      "done": false
+    },
+    {
+      "id": 3,
+      "content": "Install Chakra UI",
+      "done": false
+    }
+  ]
+}
